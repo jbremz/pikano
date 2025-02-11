@@ -1,5 +1,10 @@
 # KAN PINO
 
+>**Update February 2025** 
+>I started this project in May 2024 and it seems that this idea has been explored extensively in the literature since which is great 🙂 most notably I think [_Kolmogorov Arnold Informed neural network: A physics-informed deep learning framework for solving forward and inverse problems based on Kolmogorov Arnold Networks_](https://arxiv.org/abs/2406.11045) (June 2024) - please check out this and related if you'd like the rigorous analysis.
+
+Some very simple notebooks playing around with the idea of physics-informed KANs.
+
 The idea here is fairly straightforward: KANs seem like natural choices for modelling physical systems, why not integrate them into a neural operator + PINN framework?
 
 I'll try some very simple experiments along these lines here.
